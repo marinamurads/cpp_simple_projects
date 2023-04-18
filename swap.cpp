@@ -8,7 +8,6 @@ int main() {
     int temp = a;
     a = b;
     b = temp;
-    cout << a << endl;
-    cout << b << endl;
+    cout << a << endl << b;
     return 0;
 }
